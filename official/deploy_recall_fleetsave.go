@@ -1,6 +1,6 @@
 //////////////////////////////////////
 // Change these settings to your own.
-// If you do not want the bot to log you out remove the Logout()
+// If you do not want the bot to log you out remove the Logout() and StartSleepMode().
 // The bot will turn off any sleep mode and log back in before the fleet lands to be safe.
 // To set these to planets, simply remove the M: part.
 sendFrom = "M:1:2:3" // Sending fleet from here.
